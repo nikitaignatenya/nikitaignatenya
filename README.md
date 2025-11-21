@@ -1,2 +1,2 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/nikitaignatenya/nikitaignatenya/main/animated-text.svg?v=3" width="600" height="80" alt="Hello, I'm Nikita!" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello%2C+I'm+Nikita!)](https://git.io/typing-svg)

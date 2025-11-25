@@ -6,6 +6,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB">
 
+</div>
 ## Who I am
 
 I create production-level frontend applications that are useful for humanity using the modern stack. 
@@ -16,4 +17,3 @@ If it works fast and feels right, then I probably created it
 - **Core:** JavaScript, TypeScript, HTML, CSS, 
 - **Frameworks / Libraries:** React, Redux Toolkit, Vite, sCss, Material-UI
 - **Tools:** Git, GitHub
-</div>

@@ -7,6 +7,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB">
 
 </div>
+
 ## Who I am
 
 I create production-level frontend applications that are useful for humanity using the modern stack. 

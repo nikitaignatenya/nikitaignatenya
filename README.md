@@ -16,5 +16,5 @@ If it works fast and feels right, then I probably created it
 ## Stack
 
 - **Core:** JavaScript, TypeScript, HTML, CSS, 
-- **Frameworks / Libraries:** React, Redux Toolkit, Vite, sCss, Material-UI
+- **Frameworks / Libraries:** React, Redux Toolkit, Vite, Sass, Material-UI
 - **Tools:** Git, GitHub

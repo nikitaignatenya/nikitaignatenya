@@ -21,4 +21,4 @@ If it works fast and feels right, then I probably created it
 - **Frameworks / Libraries:** React, Redux Toolkit, Vite, Sass, Material-UI
 - **Tools:** Git, GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitaignatenya&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaignatenya&layout=compact&theme=radical)

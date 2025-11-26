@@ -21,4 +21,3 @@ If it works fast and feels right, then I probably created it
 - **Frameworks / Libraries:** React, Redux Toolkit, Vite, Sass, Material-UI
 - **Tools:** Git, GitHub
 
-[![Skills Stack Icoziv](https://i.icoziv.workers.dev/icons?i=js,html,css,react&theme=dark)](https://github.com/thuongtruong109/icoziv)

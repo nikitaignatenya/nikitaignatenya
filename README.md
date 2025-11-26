@@ -20,4 +20,5 @@ If it works fast and feels right, then I probably created it
 - **Core:** JavaScript, TypeScript, HTML, CSS, 
 - **Frameworks / Libraries:** React, Redux Toolkit, Vite, Sass, Material-UI
 - **Tools:** Git, GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitaignatenya&show_icons=true&theme=radical)
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaignatenya&layout=compact&theme=radical)
